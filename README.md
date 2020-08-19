@@ -1,6 +1,5 @@
 <pre>
-  Hey, I'm Colin. I just recently got an Honours Degree in Software Development from Limerick Institute of Technology. 
-  I'm ready to move abroad and get my career going. 
+  Hey, I'm Colin. I just recently finished college. 
   
   ✈️ I'm looking for work in Germany, and hoping to relocate there as soon as possible.
   🇩🇪  I'm learning German <sup>Learning JavaScript was much easier</sup> 
