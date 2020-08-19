@@ -1,14 +1,11 @@
 <pre>
-  Hey, I'm Colin. 
+  Hey, I'm Colin. I just recently got an Honours Degree in Software Development from Limerick Institute of Technology. 
+  I'm ready to move abroad and get my career going. 
+  
   ✈️ I'm looking for work in Germany, and hoping to relocate there as soon as possible.
-  
   🇩🇪  I'm learning German <sup>Learning JavaScript was much easier</sup> 
-  
   🔭 I’m currently working on a project for my friend called project-nina.  
-  
   🌱 I’m currently learning React. 
-  
   💻 I love all things tech, especially building and repairing PCs.
-  
   🎹 I also love Piano. 
 </pre>
