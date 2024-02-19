@@ -4,5 +4,4 @@
   🇩🇪  Ich lerne Deutsch. <sup>Learning JavaScript was much easier</sup>   
   🌱 I’m always working on improving my skill and especially ReactJS and React Native. 
   💻 I love all things tech, especially building and repairing PCs.
-  🎹 I also love Piano. 
 </pre>
